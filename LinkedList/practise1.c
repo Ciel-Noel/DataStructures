@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> /*试一下新方法*/
 
 typedef struct Node{
     int data;
